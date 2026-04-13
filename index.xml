@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="103aper">
+  <category name="utility">
+    <reapack name="PipeWire Buffer Size Switcher" type="script" desc="PipeWire Buffer Size Switcher.lua">
+     <version name="1.0" author="endofsummer" time="13-04-2026">
+        <source main="main">https://raw.githubusercontent.com/ArtikusHG/103aper-scripts/refs/heads/main/scripts/PipeWire%20Buffer%20Size%20Switcher.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
